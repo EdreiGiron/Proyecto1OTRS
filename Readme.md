@@ -2,6 +2,7 @@ PROYECTO 1 PROGRAMACION II
 7690-21-218 E. A. Girón Leonardo
 Universidad Mariano Gálvez
 egironl12@miumg.edu.gt
+https://youtu.be/5kieffP841U
 
 Descripcion Proyecto:
 El programa es una solución para poder reportar bus y errores que pueden presentarse en un sistema que se utiliza para la venta de productos en lineal. El programa permite crear tickets con información del error y el cliente que lo reporto, luego de esto el ticket generado se mueve a una cola de mesa de ayuda, la cual contara con la opción de asignar el ticket a un técnico, resolver el ticket o bien escalarlo si el problema no se puede solucionar. El ticket escalara de mesa de ayuda a soporte técnico y de ultimo a desarrollo, el cual solo podrá asignar el ticket y resolverlo. El programa cuenta con la característica de mostrar 3 tipos de reportes, el primero es un listado general de todos los tickets, el segundo es un listado de tickets por cada cola y el tercero es el listado de tickets por usuario.
